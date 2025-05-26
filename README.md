@@ -1,6 +1,9 @@
-# 🥗 Bitecount
+<p align="center">
+  <img src="./Bitecount%20logo.svg" alt="Bitecount Logo" width="360" />
+</p>
 
-**Smarter Eating. Simplified.**
+<h1 align="center">Bitecount</h1>
+<p align="center">Smarter Eating. Simplified.</p>
 
 Welcome to the official GitHub organization for **Bitecount** — a modern platform designed to make meal tracking smarter, personalized, and effortless. From real-time calorie insights to dynamic nutritional breakdowns, Bitecount is your AI-powered nutrition companion.
 
